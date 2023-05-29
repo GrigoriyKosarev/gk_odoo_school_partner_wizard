@@ -12,6 +12,7 @@
     'depends': ['contacts'],
     'external_dependencies': {'python': [], },
     'data': [
+        'security/ir.model.access.csv',
         'wizard/create_partner_multi_wizard_views.xml',
     ],
     'demo': [
